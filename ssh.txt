@@ -27,3 +27,5 @@ admin:password
 admin:motorola
 cloudera:cloudera
 root:p@ck3tf3nc3
+apc:apc
+device:apc

@@ -36,3 +36,5 @@ admin:1111
 root:admin
 se:1234
 admin:stingray
+device:apc
+apc:apc

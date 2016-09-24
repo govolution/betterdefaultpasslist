@@ -30,3 +30,5 @@ User:1001
 GE:GE
 Admin:Pass
 root:vizxv
+device:apc
+apc:apc

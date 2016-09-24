@@ -3,3 +3,14 @@ root:root
 root:chippc
 admin:admin
 root:
+root:nagiosxi
+root:usbw
+cloudera:cloudera
+root:cloudera
+root:moves
+moves:moves
+root:testpw
+root:mysql
+root:p@ck3tf3nc3
+mcUser:medocheck123
+root:mktt

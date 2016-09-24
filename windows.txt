@@ -16,3 +16,7 @@ admin:admin
 admin:12345
 admin:1234
 admin:123456
+instrument:instrument
+admin:
+nmt:1234
+admin:password

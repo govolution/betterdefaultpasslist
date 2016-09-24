@@ -19,3 +19,14 @@ Guest:guest
 root:rootpasswd
 admin:password
 adtec:none
+root:timeserver
+root:password
+Admin:Su
+admin:password
+root:admin
+admin:motorola
+Admin:5001
+User:1001
+GE:GE
+Admin:Pass
+root:vizxv

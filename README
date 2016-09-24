@@ -1,0 +1,15 @@
+What:
+- list includes default credentials from various manufacturers, for example for mssql, vnc and so on
+- also examples for passwords, in practice those are also being used
+- the sources are installation guides and other
+- useful for network bruteforcing
+- not meant as a complete bruteforcing list, hopefully it is a usefull supplement
+
+Why:
+- some manufactures use default credentials for their products
+- that might be poorly handled by the users
+- setting networks at risk
+
+What to do:
+- manufacturers: do not use default passwords, instead force users to use strong credentials and document them
+- users: check if it is possible to change the credentials, otherwise mitigate the risk, for example by network seperation or by using proper firewall rules - yes, you can actualy use local firewalls too

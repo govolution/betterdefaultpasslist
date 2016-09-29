@@ -33,3 +33,17 @@ root:vizxv
 device:apc
 apc:apc
 root:anni2013
+root:xc3511
+root:dreambox
+root:vizxv
+root:7ujMko0admin
+admin:1111111
+admin:smcadmin
+admin:4321
+888888:888888
+666666:666666
+ubnt:ubnt
+admin:22222
+adminttd:adminttd
+root:!root
+admin:epicrouter

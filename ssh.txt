@@ -30,3 +30,4 @@ root:p@ck3tf3nc3
 apc:apc
 device:apc
 eurek:eurek
+netscreen:netscreen

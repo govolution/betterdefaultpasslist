@@ -36,3 +36,9 @@ SYSMAN:werfen
 ql:ql
 PPSNEPL:pharmacy
 FDB_DIF:FDB_DIF123
+ORD_SERVER:ODS
+WKADMIN:WKADMIN
+WKUSER:WKUSER
+INTERNAL:ORACLE
+Administrator:Administrator
+orcladmin:welcome

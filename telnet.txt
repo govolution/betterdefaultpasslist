@@ -47,3 +47,8 @@ admin:22222
 adminttd:adminttd
 root:!root
 admin:epicrouter
+tech:tech
+manager:manager
+smc:smcadmin
+netscreen:netscreen
+netopia:netopia

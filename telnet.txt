@@ -91,3 +91,6 @@ default:OxhlwSG8
 admin:tlJwpbo6
 default:S2fGqNFs
 admin:meinsm
+supervisor:supervisor
+admin:123456
+root:zlxx

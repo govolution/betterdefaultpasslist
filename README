@@ -15,6 +15,7 @@ What to do:
 - users: check if it is possible to change the credentials, otherwise mitigate the risk, for example by network separation or by using proper firewall rules - yes, you can actually use local firewalls too
 
 Changelog:
+- 28.10.2016 added more credentials the last weeks
 - 03.10.2016 added some default passwords from mirai bot
 - 01.10.2016 now 305 default credentials
 - 25.09.2016 added some credentials

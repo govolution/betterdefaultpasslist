@@ -111,3 +111,4 @@ ftpuser:password
 USER:USER
 Basisk:Basisk
 sconsole:12345
+root:5up

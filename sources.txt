@@ -137,3 +137,8 @@ http://www.tripplite.com/shared/software/Firmware/SNMP-Default-Access-Credential
 https://krebsonsecurity.com/wp-content/uploads/2016/10/IoTbadpass-Sheet1.pdf
 https://github.com/scadastrangelove/SCADAPASS
 https://wiki.openwrt.org/toh/tp-link/tl-mr3040
+https://twitter.com/MalwareTechBlog/status/793395354146340864
+http://www.gadgetvictims.com/2014/05/outdoor-ip-camera-amovision-am-q6320.html
+http://elinux.org/MayGion_MIPS_IPCam
+http://www.openipcam.com/forum/index.php?topic=184.30
+http://usehelp.org/load_files/images/crunch_info/auth_basic.txt

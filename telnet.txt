@@ -112,3 +112,8 @@ USER:USER
 Basisk:Basisk
 sconsole:12345
 root:5up
+root:cat1029
+MayGion:maygion.com
+admin:cat1029
+admin:ZmqVfoSIP
+default:antslq

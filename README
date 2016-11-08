@@ -15,6 +15,7 @@ What to do:
 - users: check if it is possible to change the credentials, otherwise mitigate the risk, for example by network separation or by using proper firewall rules - yes, you can actually use local firewalls too
 
 Changelog:
+- 08.11.2016 added cirros default credentials
 - 01.11.2016 added a few credentials for telnet and ftp
 - 29.10.2016 added sources.txt for the sources (more or less complete)
 - 28.10.2016 added more credentials the last weeks

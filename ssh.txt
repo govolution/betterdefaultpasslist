@@ -35,3 +35,4 @@ admin:avocent
 root:linux
 sconsole:12345
 root:5up
+cirros:cubswin:)

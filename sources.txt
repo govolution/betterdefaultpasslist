@@ -147,3 +147,5 @@ https://ipvm.com/reports/ip-cameras-default-passwords-directory
 https://www.surveillance-video.com/media/lanot/attachments/customimport/ADCIPEBN-Quick-Setup-Guide.pdf
 http://rutracker.works/forum/viewtopic.php?p=67349910
 http://www.wboxtech.com/pdf/update-password.pdf
+https://twitter.com/_takeshix/status/796005726623793153
+http://www.gossamer-threads.com/lists/openstack/dev/15035

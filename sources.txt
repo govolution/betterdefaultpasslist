@@ -149,3 +149,6 @@ http://rutracker.works/forum/viewtopic.php?p=67349910
 http://www.wboxtech.com/pdf/update-password.pdf
 https://twitter.com/_takeshix/status/796005726623793153
 http://www.gossamer-threads.com/lists/openstack/dev/15035
+http://www.uclinux.org/pub/uClinux/FAQ.shtml
+http://www.emcraft.com/som/secure-copy
+https://www.rapid7.com/db/vulnerabilities/ssh-iphone-default-account-root-password-dottie

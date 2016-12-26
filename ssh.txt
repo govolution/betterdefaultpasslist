@@ -36,3 +36,6 @@ root:linux
 sconsole:12345
 root:5up
 cirros:cubswin:)
+root:uClinux
+root:alpine
+root:dottie

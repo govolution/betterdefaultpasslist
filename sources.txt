@@ -32,6 +32,7 @@ http://downloads.easescreen.com/Documentation/Player_Infoblatt.pdf
 http://www.process-control.com/Downloads/Guardian%202%20Instructions%20for%20Using%20VNC/Using%20VNC%20with%20B%20and%20R.pdf
 http://topics-cdn.dell.com/pdf/integrated-dell-remote-access-cntrllr-8-with-lifecycle-controller-v2.00.00.00_User's%20Guide_en-us.pdf
 http://www.visam.de/files/manual/HB_VTP-TC_31_51_v1.0d.pdf
+http://pastebin.com/k0g9EcKy
 http://www.amx.com/assets/whitePapers/AMX.AVIT.Administrators.Guide.pdf
 http://manuals.ts.fujitsu.com/file/4391/irmc-s2s3-ug-de.pdf
 http://www.passtec.de/downloads/option-wlan-touchlon-color.pdf

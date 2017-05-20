@@ -154,6 +154,7 @@ http://www.uclinux.org/pub/uClinux/FAQ.shtml
 http://www.emcraft.com/som/secure-copy
 https://www.rapid7.com/db/vulnerabilities/ssh-iphone-default-account-root-password-dottie
 https://support.unitrends.com/UnitrendsBackup/s/question/0D54000003MhTOQCA3/lowlevel-os-password
+http://www.petefinnigan.com/default/oracle_default_passwords.htm
 https://github.com/rapid7/metasploit-framework/tree/master/data/wordlists
 http://www.s3cur1ty.de/node/707
 http://www.vulnerabilityassessment.co.uk/accounts.default

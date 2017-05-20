@@ -15,8 +15,8 @@ What to do:
 - users: check if it is possible to change the credentials, otherwise mitigate the risk, for example by network separation or by using proper firewall rules - yes, you can actually use local firewalls too
 
 Changelog:
-- 20.05.2017 added lots of passwords from msf wordlists and other sources, more than 600 new credentials (most oracle), added db2 and postgres
-  Thanks to Pete Finnigan for creating the huge oracle default credentials list here: http://www.petefinnigan.com/default/oracle_default_passwords.htm
+- 20.05.2017 added lots of passwords from http://www.petefinnigan.com/default/oracle_default_passwords.htm, msf wordlists and other sources, more than 600 new credentials (most oracle), added db2 and postgres.
+  Thanks to Pete Finnigan for creating the huge oracle default credentials list!
 - 27.12.2016 addded 3 creds
 - 08.11.2016 added cirros default credentials
 - 01.11.2016 added a few credentials for telnet and ftp

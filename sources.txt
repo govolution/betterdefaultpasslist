@@ -158,3 +158,5 @@ http://www.petefinnigan.com/default/oracle_default_passwords.htm
 https://github.com/rapid7/metasploit-framework/tree/master/data/wordlists
 http://www.s3cur1ty.de/node/707
 http://www.vulnerabilityassessment.co.uk/accounts.default
+http://stackoverflow.com/questions/29450404/is-there-a-default-password-to-connect-to-vagrant-when-using-homestead-ssh-for
+https://github.com/comerford/mongodb-scripts/tree/master/vagrant/m202-ubuntu1404

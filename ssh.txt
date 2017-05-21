@@ -49,3 +49,4 @@ root:fai
 root:ceadmin
 maint:password
 root:palosanto
+root:ubuntu1404

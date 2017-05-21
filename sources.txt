@@ -167,3 +167,13 @@ https://community.freepbx.org/t/default-passwords-for-asterisk-and-freepbx/6828/
 https://www.elastix.org/community/threads/elastix-mysql-password-change.20643/
 https://www.elastix.org/appliances/miniUCS_QuickStartGuide.pdf
 http://pbxbook.com/voip/raspbxmac.html
+http://forum.solid-run.com/your-first-steps-beginners-corner-f17/password-for-debian-jessie-not-working-t1502.html
+https://xen-orchestra.com/oldforum/209-solved-root-password-for-xoa-3-5/0
+https://www.sipwise.com/doc/2.8/spce/ar01s04.html
+http://elinux.org/BeagleBoardDebian
+http://www.osop.com.pa/sixaola-sphinx-doc/_build/html/default-passwords.html
+http://manual.raspberryshake.org/hacked.html
+http://docs.stackato.com/admin/server/configuration.html
+https://docs.docker.com/engine/examples/running_ssh_service/
+http://projects.doozan.com/debian/
+https://www.newit.co.uk/forum/index.php/topic,44.0.html

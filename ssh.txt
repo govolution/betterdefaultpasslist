@@ -50,3 +50,16 @@ root:ceadmin
 maint:password
 root:palosanto
 root:ubuntu1404
+root:cubox-i
+debian:debian
+root:debian
+root:xoa
+root:sipwise
+debian:temppwd
+root:sixaola
+debian:sixaola
+myshake:shakeme
+stackato:stackato
+root:screencast
+root:stxadmin
+root:nosoup4u

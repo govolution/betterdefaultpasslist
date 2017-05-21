@@ -44,3 +44,8 @@ root:unitrends1
 vagrant:vagrant
 root:vagrant
 m202:m202
+demo:fai
+root:fai
+root:ceadmin
+maint:password
+root:palosanto

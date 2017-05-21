@@ -160,3 +160,10 @@ http://www.s3cur1ty.de/node/707
 http://www.vulnerabilityassessment.co.uk/accounts.default
 http://stackoverflow.com/questions/29450404/is-there-a-default-password-to-connect-to-vagrant-when-using-homestead-ssh-for
 https://github.com/comerford/mongodb-scripts/tree/master/vagrant/m202-ubuntu1404
+http://techqa.info/programming/question/31773892/vagrant-ssh-private-key-won%27t-authorize
+https://fai-project.org/fai-guide/
+http://blog.p4i1.com/
+https://community.freepbx.org/t/default-passwords-for-asterisk-and-freepbx/6828/4
+https://www.elastix.org/community/threads/elastix-mysql-password-change.20643/
+https://www.elastix.org/appliances/miniUCS_QuickStartGuide.pdf
+http://pbxbook.com/voip/raspbxmac.html

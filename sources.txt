@@ -177,3 +177,7 @@ http://docs.stackato.com/admin/server/configuration.html
 https://docs.docker.com/engine/examples/running_ssh_service/
 http://projects.doozan.com/debian/
 https://www.newit.co.uk/forum/index.php/topic,44.0.html
+https://www.exploit-db.com/exploits/42787/
+https://doc.nexthink.com/Documentation/Nexthink/V5.2/InstallationAndConfiguration/ManagingApplianceaccounts
+http://support.polycom.com/global/documents/support/technical/products/voice/SIP_Factory_Configuration_Change_SoundPoint_IP_TB38447.pdf
+https://vulners.com/nessus/ACCOUNT_MG3500_MERLIN.NASL

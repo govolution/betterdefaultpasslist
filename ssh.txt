@@ -63,3 +63,9 @@ stackato:stackato
 root:screencast
 root:stxadmin
 root:nosoup4u
+root:indigo
+root:video
+default:video
+default:
+ftp:video
+nexthink:123456

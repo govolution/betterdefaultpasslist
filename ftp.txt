@@ -62,3 +62,4 @@ user:user00
 su:ko2003wa
 MayGion:maygion.com
 admin:9999
+PlcmSpIp:PlcmSpIp

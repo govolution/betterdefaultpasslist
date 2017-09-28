@@ -34,7 +34,6 @@ root:anni2013
 root:xc3511
 root:dreambox
 root:vizxv
-root:7ujMko0admin
 admin:1111111
 admin:smcadmin
 admin:4321

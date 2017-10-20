@@ -181,3 +181,4 @@ https://www.exploit-db.com/exploits/42787/
 https://doc.nexthink.com/Documentation/Nexthink/V5.2/InstallationAndConfiguration/ManagingApplianceaccounts
 http://support.polycom.com/global/documents/support/technical/products/voice/SIP_Factory_Configuration_Change_SoundPoint_IP_TB38447.pdf
 https://vulners.com/nessus/ACCOUNT_MG3500_MERLIN.NASL
+https://help.ubnt.com/hc/en-us/articles/204909374-UniFi-What-is-the-default-username-password-for-UAPs-and-controller-

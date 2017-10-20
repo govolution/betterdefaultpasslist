@@ -69,3 +69,5 @@ default:video
 default:
 ftp:video
 nexthink:123456
+ubnt:ubnt
+root:ubnt

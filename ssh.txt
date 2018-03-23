@@ -71,3 +71,7 @@ ftp:video
 nexthink:123456
 ubnt:ubnt
 root:ubnt
+sansforensics:forensics
+elk_user:forensics
+osboxes:osboxes.org
+root:osboxes.org

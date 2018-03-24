@@ -187,3 +187,11 @@ https://github.com/philhagen/sof-elk/blob/master/VM_README.md
 https://www.osboxes.org/faq/what-are-the-credentials-for-virtual-machine-image/
 https://twitter.com/adriendb/status/390284657985474560
 http://www.netresec.com/?page=PcapFiles
+https://www.circl.lu/services/misp-training-materials/
+https://www.sap.com/developer/tutorials/hxe-ua-getting-started-vm.html
+http://acitoolkit.readthedocs.io/en/latest/tutorialpackages.html#virtual-machine-for-vmware-environments
+https://wiki.openstack.org/wiki/Documentation/training-labs
+https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/virtual-image-how-to
+https://geoserver.geo-solutions.it/edu/en/intro/vbox.html
+https://www.pyimagesearch.com/2017/09/22/deep-learning-python-ubuntu-virtual-machine/
+https://community.opmantek.com/display/NMIS/Default+Credentials+%28Passwords%29+for+NMIS8+VM

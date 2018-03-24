@@ -185,3 +185,4 @@ https://help.ubnt.com/hc/en-us/articles/204909374-UniFi-What-is-the-default-user
 https://digital-forensics.sans.org/community/downloads
 https://github.com/philhagen/sof-elk/blob/master/VM_README.md
 https://www.osboxes.org/faq/what-are-the-credentials-for-virtual-machine-image/
+https://twitter.com/adriendb/status/390284657985474560

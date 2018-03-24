@@ -75,3 +75,4 @@ sansforensics:forensics
 elk_user:forensics
 osboxes:osboxes.org
 root:osboxes.org
+sans:training

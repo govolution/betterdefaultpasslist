@@ -196,3 +196,4 @@ https://geoserver.geo-solutions.it/edu/en/intro/vbox.html
 https://www.pyimagesearch.com/2017/09/22/deep-learning-python-ubuntu-virtual-machine/
 https://community.opmantek.com/display/NMIS/Default+Credentials+%28Passwords%29+for+NMIS8+VM
 https://zeltser.com/remnux-malware-analysis-tips/
+https://github.com/redhuntlabs/RedHunt-OS/

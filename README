@@ -1,5 +1,5 @@
 Note:
-BetterDefaultPasslist is included in SecLists and in future I will try to keep them both up-to-date (08.07.2018).
+BetterDefaultPasslist is included in SecLists (https://github.com/danielmiessler/SecLists) and in future I will try to keep them both up-to-date (08.07.2018).
 
 What:
 - list includes default credentials from various manufacturers for their products like NAS, ERP, ICS etc., that are used for standard products like mssql, vnc, oracle and so on

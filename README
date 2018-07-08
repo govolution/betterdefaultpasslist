@@ -18,6 +18,7 @@ What to do:
 - users: check if it is possible to change the credentials, otherwise mitigate the risk, for example by network separation or by using proper firewall rules - yes, you can actually use local firewalls too
 
 Changelog:
+- 08.07.2018 added more credentials for ssh.txt and windows.txt
 - 24.03.2018 added some creds, for VMs that are offered to download (SANS, osboxes.org and more)
 - 27.09.2017 added about 10 creds
 - 20.05.2017 added lots of passwords from http://www.petefinnigan.com/default/oracle_default_passwords.htm, msf wordlists and other sources, more than 600 new credentials (most oracle), added db2 and postgres.

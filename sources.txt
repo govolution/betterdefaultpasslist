@@ -221,3 +221,4 @@ https://github.com/FortyNorthSecurity/EyeWitness/blob/master/dataFile.txt
 https://www.rapid7.com/db/vulnerabilities/http-tomcat-manager-j2deployer-j2deployer-password
 https://github.com/chuckfw/owaspbwa/blob/master/etc/tomcat6/tomcat-users.xml
 https://github.com/Easycom-Solutions/vagrant-box/blob/master/Vagrantfile
+https://github.com/rapid7/metasploit-framework/issues/9513

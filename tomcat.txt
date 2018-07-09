@@ -76,3 +76,4 @@ tomcat:tomcat
 xampp:xampp
 server_admin:owaspbwa
 admin:owaspbwa
+demo:demo

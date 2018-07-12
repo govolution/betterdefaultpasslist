@@ -218,3 +218,6 @@ https://github.com/netbiosX/Default-Credentials/blob/master/Apache-Tomcat-Defaul
 https://www.manageengine.com/products/ad-manager/help/getting_started/starting_admanager_plus.html
 https://www.trendmicro.com/vinfo/us/threat-encyclopedia/vulnerability/7350/hp-operations-manager-apache-tomcat-default-ovwebusr-password-vulnerability
 https://github.com/FortyNorthSecurity/EyeWitness/blob/master/dataFile.txt
+https://www.rapid7.com/db/vulnerabilities/http-tomcat-manager-j2deployer-j2deployer-password
+https://github.com/chuckfw/owaspbwa/blob/master/etc/tomcat6/tomcat-users.xml
+https://github.com/Easycom-Solutions/vagrant-box/blob/master/Vagrantfile

@@ -74,3 +74,5 @@ tomcat:s3cret
 tomcat:s3cret
 tomcat:tomcat
 xampp:xampp
+server_admin:owaspbwa
+admin:owaspbwa

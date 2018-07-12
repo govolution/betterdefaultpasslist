@@ -18,6 +18,7 @@ What to do:
 - users: check if it is possible to change the credentials, otherwise mitigate the risk, for example by network separation or by using proper firewall rules - yes, you can actually use local firewalls too
 
 Changelog:
+- 12.07.2018 edoz90 added tomcat.txt
 - 08.07.2018 added more credentials for ssh.txt and windows.txt
 - 24.03.2018 added some creds, for VMs that are offered to download (SANS, osboxes.org and more)
 - 27.09.2017 added about 10 creds

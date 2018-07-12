@@ -214,3 +214,7 @@ https://webcache.googleusercontent.com/search?q=cache:7B1eHvSiSmUJ:https://www.n
 http://flexsystem.lenovofiles.com/help/index.jsp?topic=%2Fcom.lenovo.acc.cmm.doc%2Fcli_use_ssh_connection.html
 https://docs.microsoft.com/en-us/windows/iot-core/connect-your-device/ssh
 https://forums.freenas.org/index.php?threads/what-is-the-default-root-password-and-how-to-change-it.1188/
+https://github.com/netbiosX/Default-Credentials/blob/master/Apache-Tomcat-Default-Passwords.mdown
+https://www.manageengine.com/products/ad-manager/help/getting_started/starting_admanager_plus.html
+https://www.trendmicro.com/vinfo/us/threat-encyclopedia/vulnerability/7350/hp-operations-manager-apache-tomcat-default-ovwebusr-password-vulnerability
+https://github.com/FortyNorthSecurity/EyeWitness/blob/master/dataFile.txt

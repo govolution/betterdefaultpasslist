@@ -223,3 +223,14 @@ https://github.com/chuckfw/owaspbwa/blob/master/etc/tomcat6/tomcat-users.xml
 https://github.com/Easycom-Solutions/vagrant-box/blob/master/Vagrantfile
 https://github.com/rapid7/metasploit-framework/issues/9513
 https://github.com/camunda/camunda-docs-manual/pull/122/commits/f4b7a68975f1815b5defd955081cf54a3240f78a
+https://github.com/ant-thomas/zsgx1hacks
+https://seclists.org/fulldisclosure/2018/Apr/25
+https://www.mobilitysolutions.cz/eng/faq/motorola-wi-fi/motorola-default-password
+https://gtacknowledge.extremenetworks.com/articles/How_To/Unable-to-login-to-WM3700
+https://app.vagrantup.com/brunofpereira/boxes/ubuntu-base
+https://vulners.com/nessus/ACCOUNT_ROOT_ROOTKIT1.NASL
+https://blackarch.org/blackarch-install.html
+https://www.tenable.com/plugins/nessus/68959
+https://vulners.com/nessus/ACCOUNT_ROOT_7UJMKO0ADMIN.NASL
+https://vulners.com/nessus/ACCOUNT_ROOT_7UJMKO0VIZXV.NASL
+https://github.com/wingspinner/HooToo-Tripmate-HT-TM02-OpenWRT/issues/5

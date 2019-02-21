@@ -22,3 +22,4 @@ nmt:1234
 admin:password
 IEUser:Passw0rd!
 openhabian:openhabian
+vagrant:vagrant

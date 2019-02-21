@@ -236,4 +236,4 @@ https://vulners.com/nessus/ACCOUNT_ROOT_7UJMKO0VIZXV.NASL
 https://github.com/wingspinner/HooToo-Tripmate-HT-TM02-OpenWRT/issues/5
 https://vulners.com/nessus/ACCOUNT_ROOT_ZTE521.NASL
 https://www.tenable.com/plugins/nessus/94402
-
+https://app.vagrantup.com/peru/boxes/windows-10-enterprise-x64-eval

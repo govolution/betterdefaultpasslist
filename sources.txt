@@ -237,3 +237,14 @@ https://github.com/wingspinner/HooToo-Tripmate-HT-TM02-OpenWRT/issues/5
 https://vulners.com/nessus/ACCOUNT_ROOT_ZTE521.NASL
 https://www.tenable.com/plugins/nessus/94402
 https://app.vagrantup.com/peru/boxes/windows-10-enterprise-x64-eval
+https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
+https://media.hacking-lab.com/largefiles/livecd/readme.txt
+https://github.com/SamuraiWTF/samuraiwtf
+https://github.com/fgrehm/vagrant-mssql-express
+http://docs.graylog.org/en/2.4/pages/installation/virtual_machine_appliances.html
+https://openvpn.net/vpn-server-resources/deploying-the-access-server-appliance-on-vmware-esxi/
+https://www.circl.lu/services/misp-training-materials/
+https://documentation.wazuh.com/3.10/installation-guide/virtual-machine.html
+https://my.nps.edu/web/c3o/virtual-machine-images
+https://virtualboxes.org/images/centos/
+

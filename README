@@ -18,6 +18,7 @@ What to do:
 - users: check if it is possible to change the credentials, otherwise mitigate the risk, for example by network separation or by using proper firewall rules - yes, you can actually use local firewalls too
 
 Changelog (small updates not included):
+- 10.10.2019 added default credentials for smb, ssh, mssql
 - 10.10.2018 added 22 default credentials, ssh, telnet & mysql
 - 12.07.2018 edoz90 added tomcat.txt
 - 08.07.2018 added more credentials for ssh.txt and windows.txt

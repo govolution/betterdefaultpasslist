@@ -129,3 +129,4 @@ student:password123
 root:roottoor
 centos:reverse
 root:reverse
+cmc:password

@@ -247,4 +247,4 @@ https://www.circl.lu/services/misp-training-materials/
 https://documentation.wazuh.com/3.10/installation-guide/virtual-machine.html
 https://my.nps.edu/web/c3o/virtual-machine-images
 https://virtualboxes.org/images/centos/
-
+https://www.zdnet.com/article/backdoor-accounts-discovered-in-29-ftth-devices-from-chinese-vendor-c-data/

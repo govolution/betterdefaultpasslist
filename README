@@ -18,6 +18,7 @@ What to do:
 - users: check if it is possible to change the credentials, otherwise mitigate the risk, for example by network separation or by using proper firewall rules - yes, you can actually use local firewalls too
 
 Changelog (small updates not included):
+- 18.01.2021 added CVE-2017-7722, kudos to mcjon3z (https://github.com/govolution/betterdefaultpasslist/pull/7)
 - 06.01.2021 added zyxel hard coded credentials for ssh, added web.txt (default creds for web apps) with same credentials
 - 11.07.2020 added some backdoor credentials for telnet
 - 10.10.2019 added default credentials for smb, ssh, mssql
